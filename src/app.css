@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 600ms ease;
+}
+h1,h2,h3,h4,h5{
+    margin: 0;
+    padding: 2px;
+}
+
+.spacey{
+    margin-left: 10px;
+    transition: all .6s ease;
+}
